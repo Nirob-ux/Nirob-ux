@@ -1,15 +1,10 @@
-### Hi there, I'm Nirob 👋
-
-Welcome to my GitHub profile! I'm passionate about *UI/UX Design* and currently learning *Web Development* to turn clean designs into real, interactive websites.
-
-- 🎨 Interested in *UI/UX Design, Figma & Graphic Design*
-- 🌱 Currently learning *HTML, CSS, JavaScript & GitHub*
-- 💡 Building my first projects and sharing my learning journey here
-- 🤝 Open to learning, feedback, and beginner-friendly collaborations
+<div align="center">
+  <img src="./assets/terminal-profile.svg" alt="Nirob Terminal Profile" width="100%" />
+</div>
 
 ---
 
-### 🛠️ Tools & Technologies I'm Exploring
+### 🛠️ Tools & Technologies
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -20,21 +15,6 @@ Welcome to my GitHub profile! I'm passionate about *UI/UX Design* and currently 
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 GitHub Stats
 
 ![Nirob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirob-ux&show_icons=true&theme=tokyonight)
-
-<!--
-**Nirob-ux/Nirob-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
